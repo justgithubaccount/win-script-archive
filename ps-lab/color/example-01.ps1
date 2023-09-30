@@ -1,0 +1,1 @@
+Write-Host "Red on white text." -ForegroundColor Red -BackgroundColor White
